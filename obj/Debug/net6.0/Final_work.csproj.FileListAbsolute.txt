@@ -1,0 +1,15 @@
+/Users/admin/Desktop/Education/Final_work/bin/Debug/net6.0/Final_work
+/Users/admin/Desktop/Education/Final_work/bin/Debug/net6.0/Final_work.deps.json
+/Users/admin/Desktop/Education/Final_work/bin/Debug/net6.0/Final_work.runtimeconfig.json
+/Users/admin/Desktop/Education/Final_work/bin/Debug/net6.0/Final_work.dll
+/Users/admin/Desktop/Education/Final_work/bin/Debug/net6.0/ref/Final_work.dll
+/Users/admin/Desktop/Education/Final_work/bin/Debug/net6.0/Final_work.pdb
+/Users/admin/Desktop/Education/Final_work/obj/Debug/net6.0/Final_work.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Education/Final_work/obj/Debug/net6.0/Final_work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Education/Final_work/obj/Debug/net6.0/Final_work.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Education/Final_work/obj/Debug/net6.0/Final_work.AssemblyInfo.cs
+/Users/admin/Desktop/Education/Final_work/obj/Debug/net6.0/Final_work.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Education/Final_work/obj/Debug/net6.0/Final_work.dll
+/Users/admin/Desktop/Education/Final_work/obj/Debug/net6.0/ref/Final_work.dll
+/Users/admin/Desktop/Education/Final_work/obj/Debug/net6.0/Final_work.pdb
+/Users/admin/Desktop/Education/Final_work/obj/Debug/net6.0/Final_work.genruntimeconfig.cache
